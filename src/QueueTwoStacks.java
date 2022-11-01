@@ -34,7 +34,6 @@ Dequeue the value at the head of the queue, 14; queue = {28,60,78}
 Dequeue the value at the head of the queue, 28; queue = {60,78}
  */
 
-import java.io.*;
 import java.util.*;
 
 public class QueueTwoStacks {
